@@ -4,6 +4,10 @@ A Minecraft mod written in Java that allows serial port communication with an ST
 ## Efekt końcowy
 [Youtube](https://www.youtube.com/watch?v=Tr7hH6reKyc&ab_channel=MateuszStelmasiak)
 
+## Kod źródłowy
+- https://github.com/madragonse/MAKARON_Client
+- https://github.com/madragonse/MAKARON_Server
+
 ## Instrukcja obsługi
 1. Zainstaluj forge-1.15.2.exe.
 2. Włącz minecraft z nowo stworzoną konfiguracją "forge 1.15..." aby wygenerować pliki forge'a.
