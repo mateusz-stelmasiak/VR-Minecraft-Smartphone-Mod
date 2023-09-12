@@ -2,7 +2,7 @@
 A Minecraft mod written in Java that allows for serial port communication with an STM32 that takes inputs from home-made "VR controllers".
 
 ## Efekt końcowy
-[Youtube]([https://www..com/watch?v=x34en59iSWc&ab_channel=WillWarfel](https://www.youtube.com/watch?v=Tr7hH6reKyc&ab_channel=MateuszStelmasiak))
+[Youtube](https://www.youtube.com/watch?v=Tr7hH6reKyc&ab_channel=MateuszStelmasiak)
 
 ## Instrukcja obsługi
 1. Zainstaluj forge-1.15.2.exe.
