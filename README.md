@@ -1,6 +1,17 @@
 # VR-Minecraft-Smartphone-Mod
 A Minecraft mod written in Java that allows for serial port communication with an STM32 that takes inputs from home-made "VR controllers".
 
+## Efekt końcowy
+[Youtube]([https://www..com/watch?v=x34en59iSWc&ab_channel=WillWarfel](https://www.youtube.com/watch?v=Tr7hH6reKyc&ab_channel=MateuszStelmasiak))
+
+## Instrukcja obsługi
+1. Zainstaluj forge-1.15.2.exe.
+2. Włącz minecraft z nowo stworzoną konfiguracją "forge 1.15..." aby wygenerować pliki forge'a.
+3. Wyszukaj %appdata% przejdź do .minecraft/mods i umieść tam serial.jar.
+4. "/serial" daje help do wszystkich dostępnych komend.
+
+W trybie debugowania wszystko co przychodzi na podłączony port jest wysyłane na czacie do gracza jak ASCII.
+
 ## Prezentacje z postępu prac
 1. [Wprowadzenie do projektu.pptx](https://github.com/mateusz-stelmasiak/VR-Minecraft-Smartphone-Mod/files/12586339/Wprowadzenie.do.projektu.pptx)
 2. [PTM-PostępPrac_18.03.2020_.pptx](https://github.com/mateusz-stelmasiak/VR-Minecraft-Smartphone-Mod/files/12586354/PTM-PostepPrac_18.03.2020_.pptx)
