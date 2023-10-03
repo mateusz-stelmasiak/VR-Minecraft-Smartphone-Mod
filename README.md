@@ -1,4 +1,4 @@
-# VR-Minecraft-Smartphone-Mod
+# VR-Serial-Communication-Minecraft-Mod
 A Minecraft mod written in Java that allows serial port communication with an STM32 that takes inputs from home-made "VR controllers". Made with [@madragonse](https://github.com/madragonse) as a final project for PTM (Podstawy Technologii Mikroprocesorowych).
 
 
