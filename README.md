@@ -1,13 +1,9 @@
 # VR-Minecraft-Smartphone-Mod
-A Minecraft mod written in Java that allows serial port communication with an STM32 that takes inputs from home-made "VR controllers". Made with [@madragonse](https://github.com/madragonse) as a final project.
+A Minecraft mod written in Java that allows serial port communication with an STM32 that takes inputs from home-made "VR controllers". Made with [@madragonse](https://github.com/madragonse) as a final project for PTM (Podstawy Technologii Mikroprocesorowych).
 
 
 ## Efekt końcowy
 [Youtube](https://www.youtube.com/watch?v=Tr7hH6reKyc&ab_channel=MateuszStelmasiak)
-
-## Kod źródłowy
-- https://github.com/madragonse/MAKARON_Client
-- https://github.com/madragonse/MAKARON_Server
 
 ## Instrukcja obsługi
 1. Zainstaluj forge-1.15.2.exe.
